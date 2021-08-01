@@ -1,0 +1,9 @@
+.list {
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+}
+
+.value {
+  font-weight: 500;
+}
